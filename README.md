@@ -1,7 +1,7 @@
- Frontend Babel is an online hub for publishing amateur English translations of frontend articles originally written in
- other languages.
+[Frontend Babel][frontendbabel.info/] is an online hub for publishing amateur English translations of frontend articles originally written in
+other languages.
 
- [Read more about the project](http://frontendbabel.info/about/).
+[Read more about the project](http://frontendbabel.info/about/).
 
 ## Install blog:
 
