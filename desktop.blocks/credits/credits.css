@@ -1,0 +1,85 @@
+.credits
+{
+    display: table;
+    width: 100%;
+    margin-top: 4em;
+}
+
+.credits a
+{
+    text-decoration: none;
+    color: #517CCE;
+}
+.credits a:hover
+{
+    color: #2A4C8E;
+}
+
+.credits__author
+{
+    position: relative;
+    margin-top: 3em;
+    display: table-cell;
+    width: 50%;
+}
+
+.credits__author::before
+{
+    content: 'Author';
+    font-size: 36px;
+    display: block;
+    position: absolute;
+    top: -36px;
+    left: 0px;
+}
+
+
+.credits__translator
+{
+    position: relative;
+    margin-top: 3em;
+    display: table-cell;
+    width: 50%;
+    border-left: #FFF 1em solid;
+}
+
+
+.credits__translator::before
+{
+    content: 'Translator';
+    font-size: 36px;
+    display: block;
+    position: absolute;
+    top: -36px;
+    left: 0px;
+}
+
+.credits__var,
+.credits__val
+{
+    display: inline;
+    margin: 0;
+}
+
+.credits__name
+{
+    margin: 1em 0 0.25em 0;
+}
+
+.credits__name .credits__var
+{
+    display: none;
+}
+
+.credits__name .credits__val
+{
+    margin: 0;
+}
+
+.credits__site,
+.credits__github,
+.credits__twitter
+{
+    font-size: 0.8em;
+    margin: 0;
+}
