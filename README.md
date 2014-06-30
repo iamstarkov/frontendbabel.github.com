@@ -1,4 +1,4 @@
-[Frontend Babel][http://frontendbabel.info/] is an online hub for publishing amateur English translations of frontend articles originally written in
+[Frontend Babel](http://frontendbabel.info/) is an online hub for publishing amateur English translations of frontend articles originally written in
 other languages.
 
 [Read more about the project](http://frontendbabel.info/about/).
